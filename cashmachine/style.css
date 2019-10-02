@@ -1,0 +1,13 @@
+.box{
+    width: 750px;
+    height: 550px;
+    background: orange;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+}
