@@ -1,20 +1,3 @@
-//prompt("hello.")
-//alert("hello")
-// let userInput = prompt("hello, please input your pin.")
-
-// console.log(userInput)
-
-// let userBalance = 600
-// let userPin = 1234
-
-// let withdrawLimit = 250
-// let depositLimit = 500
-
-
-//below is the check pin, with messages for both correct or incorrect pin entered.
-// function checkPin(){}
-
-
 let pinNumber = 1234;
 let balance = 1000;
 let userInput;
